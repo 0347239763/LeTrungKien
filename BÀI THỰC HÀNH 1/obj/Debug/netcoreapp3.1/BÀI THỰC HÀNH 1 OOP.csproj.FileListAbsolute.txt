@@ -1,0 +1,13 @@
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.csprojAssemblyReference.cache
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.AssemblyInfoInputs.cache
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.AssemblyInfo.cs
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.csproj.CoreCompileInputs.cache
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\bin\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.exe
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\bin\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.deps.json
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\bin\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.runtimeconfig.json
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\bin\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.runtimeconfig.dev.json
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\bin\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.dll
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\bin\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.pdb
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.dll
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.pdb
+D:\BÀI THỰC HÀNH 1 OOP\BÀI THỰC HÀNH 1 OOP\obj\Debug\netcoreapp3.1\BÀI THỰC HÀNH 1 OOP.genruntimeconfig.cache
